@@ -7,6 +7,8 @@ Foi criada uma carteira de controle de gastos com conversor de moedas. Ao utiliz
 
 ### Objetivos do Projeto
 
+  * Utilizar React com componentes de classe
+  
   * Criar um store Redux em aplicações React
 
   * Criar reducers no Redux em aplicações React
